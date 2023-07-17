@@ -1,0 +1,12 @@
+[package]
+name = "crate-template"
+description = "Template repository to create a new Rust library crate"
+version = "0.1.1"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/nurodev/crate-template"
+documentation = "https://docs.rs/crate-template"
+repository = "https://github.com/nurodev/crate-template"
+readme = "README.md"
+
+[dependencies]
