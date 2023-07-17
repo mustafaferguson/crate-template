@@ -16,7 +16,7 @@
     <br />
     <br />
 
-[![License](https://img.shields.io/crates/l/crate-template?label=%20&style=for-the-badge)](https://github.com/nurodev/crate-template/blob/main/LICENSE)
+[![License](https://img.shields.io/crates/l/crate-template?label=%20&style=for-the-badge)](https://github.com/earlybot/crate-template/blob/main/LICENSE)
 [![Version](https://img.shields.io/crates/v/crate-template?label=%20%20&style=for-the-badge)](https://crates.io/crates/crate-template)
 [![Total Downloads](https://img.shields.io/crates/d/crate-template?label=%20&logo=docusign&logoColor=white&style=for-the-badge)](https://crates.io/crates/crate-template)
 
